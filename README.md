@@ -1,5 +1,3 @@
-# springbootA606D
-springbootA606D车位管理系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
